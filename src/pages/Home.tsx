@@ -30,11 +30,7 @@ export default function Index() {
               className="bg-[#119955] text-white border border-[#119955] py-2.5 px-5 rounded-lg text-sm font-semibold no-underline hover:bg-[#119955] transition-colors"
             >
              chat
-<<<<<<< HEAD
             </Link>
-=======
-            </a>
->>>>>>> 76bb9a40be9578fb2e4f3a994f85a175823c4826
           </div>
         </div>
       </header>
